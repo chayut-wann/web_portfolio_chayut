@@ -250,7 +250,7 @@ html {
 
     
   }
-  
+
   .home-header {
     padding-top: 80px !important;
   }
@@ -259,7 +259,7 @@ html {
     position: relative;
     z-index: -1;
     /* background-image: var(--image-gradient), url(./Assets/sky2.png); */
-    background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
+    /* background-image: var(--image-gradient), url(./Assets/home-bg.jpg); */
     
 
     background-position: top center;
@@ -267,7 +267,7 @@ html {
     padding-bottom: 30px !important;
     padding-top: 30px !important;
 
-    background-color: #0c0513;
+    /* background-color: #0c0513; */
 
     background-size: cover;
   }
@@ -331,9 +331,9 @@ html {
     position: relative;
     padding-bottom: 70px !important;
     padding-top: 70px !important;
-    background-color: #0c0513;
+    /* background-color: #0c0513; */
 
-    background-image: var(--image-gradient), url(./Assets/home-bg.jpg)
+    /* background-image: var(--image-gradient), url(./Assets/home-bg.jpg) */
     
   }
   
@@ -465,7 +465,7 @@ html {
     position: relative !important;
     padding-top: 150px !important;
     padding-bottom: 30px !important;
-    background-image: var(--section-background-color) !important;
+    /* background-image: var(--section-background-color) !important; */
     color: white !important;
   }
   
