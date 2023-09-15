@@ -6,8 +6,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background-image: var(--image-gradient), url(./Assets/sky2.png);
+  /* background-image: var(--image-gradient), url(./Assets/sky2.png); */
+  background-image: var(--image-gradient), url(./Assets/banner-bg.png);
   background-size: cover;
+  
 
   
 }
