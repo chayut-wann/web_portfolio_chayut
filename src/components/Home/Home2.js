@@ -40,6 +40,14 @@ function Home2() {
 
               <br />
               Call Me <i><b>Dear</b></i>
+              <h1 style={{ fontSize: "2.6em" }} >
+                <span className="purple">ช่องทางการติดต่อ</span>
+              </h1>
+              <br />
+              <h2>
+                Chayut.wann@gmail.com
+              </h2>
+
             </p>
           </Col>
           <Col md={4} className="myAvtar">

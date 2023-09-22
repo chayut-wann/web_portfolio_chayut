@@ -17,6 +17,7 @@ function AboutCard() {
                     Department of Computer Science.
             <br />
              I am enthusiastic about Machine Learning.
+             <br />
              (เดี๋ยวมาใส่ข้อความเพิ่มอีกนะครับ ตอนนี้โปรแกรมกำลังพัฒนา)
             <br />
             <br />
